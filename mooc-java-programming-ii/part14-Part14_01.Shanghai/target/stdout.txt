@@ -1,0 +1,11 @@
+key is 2016v is 56
+key is 2017v is 56
+key is 2007v is 73
+key is 2008v is 68
+key is 2009v is 72
+key is 2010v is 72
+key is 2011v is 74
+key is 2012v is 73
+key is 2013v is 76
+key is 2014v is 73
+key is 2015v is 67
